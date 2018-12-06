@@ -1,0 +1,76 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 07.11.2018 11:35:43
+
+newmtl st_tile
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8353 0.5059 0.6157
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\for houses\sl wood1.jpg
+	map_Kd D:\New folder 2\for houses\sl wood1.jpg
+
+newmtl fabric
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8941 0.7843 0.8784
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\textile\LS_02_rd.jpg
+	map_Kd D:\New folder 2\textile\LS_02_rd.jpg
+
+newmtl st_leather
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8157 0.9059 0.7686
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\0286.jpg
+	map_Kd D:\New folder 2\0286.jpg
+	map_bump -bm 0.3000 D:\New folder 2\0286.jpg
+	bump -bm 0.3000 D:\New folder 2\0286.jpg
+
+newmtl Standard_8
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\textile\portloef.jpg
+	map_Kd D:\New folder 2\textile\portloef.jpg
+
+newmtl Plastic
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3098 0.3098 0.3098
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\235096021.jpg
+	map_Kd D:\New folder 2\235096021.jpg
+	map_bump -bm 0.3000 D:\New folder 2\235096021.jpg
+	bump -bm 0.3000 D:\New folder 2\235096021.jpg
