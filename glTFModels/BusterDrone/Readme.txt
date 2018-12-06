@@ -1,0 +1,1 @@
+A drone .glTF Model
