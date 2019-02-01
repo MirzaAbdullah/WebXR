@@ -12,8 +12,8 @@ newmtl st_tile
 	Kd 0.8353 0.5059 0.6157
 	Ks 0.6300 0.6300 0.6300
 	Ke 0.0000 0.0000 0.0000
-	map_Ka D:\New folder 2\for houses\sl wood1.jpg
-	map_Kd D:\New folder 2\for houses\sl wood1.jpg
+	map_Ka https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/sl%20wood1.jpg
+	map_Kd https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/sl%20wood1.jpg
 
 newmtl fabric
 	Ns 10.0000
@@ -26,8 +26,8 @@ newmtl fabric
 	Kd 0.8941 0.7843 0.8784
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka D:\New folder 2\textile\LS_02_rd.jpg
-	map_Kd D:\New folder 2\textile\LS_02_rd.jpg
+	map_Ka https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/LS_02_rd.jpg
+	map_Kd https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/LS_02_rd.jpg
 
 newmtl st_leather
 	Ns 10.0000
@@ -42,8 +42,8 @@ newmtl st_leather
 	Ke 0.0000 0.0000 0.0000
 	map_Ka D:\New folder 2\0286.jpg
 	map_Kd D:\New folder 2\0286.jpg
-	map_bump -bm 0.3000 D:\New folder 2\0286.jpg
-	bump -bm 0.3000 D:\New folder 2\0286.jpg
+	map_bump -bm 0.3000 https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/0286.jpg
+	bump -bm 0.3000 https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/0286.jpg
 
 newmtl Standard_8
 	Ns 10.0000
@@ -56,8 +56,8 @@ newmtl Standard_8
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka D:\New folder 2\textile\portloef.jpg
-	map_Kd D:\New folder 2\textile\portloef.jpg
+	map_Ka https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/portloef.jpg
+	map_Kd https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/portloef.jpg
 
 newmtl Plastic
 	Ns 70.0000
@@ -70,7 +70,7 @@ newmtl Plastic
 	Kd 0.3098 0.3098 0.3098
 	Ks 0.6300 0.6300 0.6300
 	Ke 0.0000 0.0000 0.0000
-	map_Ka D:\New folder 2\235096021.jpg
-	map_Kd D:\New folder 2\235096021.jpg
-	map_bump -bm 0.3000 D:\New folder 2\235096021.jpg
-	bump -bm 0.3000 D:\New folder 2\235096021.jpg
+	map_Ka https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/235096021.jpg
+	map_Kd https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/235096021.jpg
+	map_bump -bm 0.3000 https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/235096021.jpg
+	bump -bm 0.3000 https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/Sofa/235096021.jpg
