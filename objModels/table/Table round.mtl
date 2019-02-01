@@ -12,5 +12,5 @@ newmtl st_wood
 	Kd 0.9922 0.9804 0.8941
 	Ks 0.6300 0.6300 0.6300
 	Ke 0.0000 0.0000 0.0000
-	map_Ka D:\New folder 2\Wo_16sml.jpg
-	map_Kd D:\New folder 2\Wo_16sml.jpg
+	map_Ka https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/table/Wo_16sml.jpg
+	map_Kd https://raw.githubusercontent.com/MirzaAbdullah/WebXR/master/objModels/table/Wo_16sml.jpg
